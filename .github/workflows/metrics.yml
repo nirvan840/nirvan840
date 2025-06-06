@@ -1,17 +1,30 @@
 name: GitHub Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]  # runs daily
-  workflow_dispatch:              # allows manual run
+  schedule: [{cron: "0 0 * * *"}]  # daily
+  workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v3
+
+      - name: Generate Metrics SVG
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: nirvan840
           base: repositories
           plugin_stars: yes
-          plugin_stars_limit: 1000  # optionally increase if you're in many repos
+          plugin_stars_limit: 1000
+
+      - name: Commit metrics.svg
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add metrics.svg
+          git commit -m "Update metrics.svg" || echo "No changes to commit"
+          git push
