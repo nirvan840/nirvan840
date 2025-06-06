@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nirvan (☞ﾟヮﾟ)☞</h1>
 <h3 align="center"><i>Making sense of senses: Vision and NLP in the ML wild :)</i></h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Stars-30-blue?style=flat&logo=github" alt="Total Stars" />
+   <a href="https://github.com/VizuaraAI/Tiny-Stories-Regional" target="_blank"><img src="https://img.shields.io/badge/Popular%20Repo-TinyStoriesRegional-green?style=flat&logo=github" alt="Popular Repo: Tiny Stories Regional" /></a>
+</p>
+
 <br>
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirvan840&label=Profile%20views&color=0e75b6&style=flat" alt="nirvan840" /> </p> -->
 
