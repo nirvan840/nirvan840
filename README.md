@@ -2,8 +2,8 @@
 <h3 align="center"><i>Making sense of senses: Vision and NLP in the ML wild :)</i></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Stars-30-blue?style=flat&logo=github" alt="Total Stars" />
-   <a href="https://github.com/VizuaraAI/Tiny-Stories-Regional" target="_blank"><img src="https://img.shields.io/badge/Popular%20Repo-TinyStoriesRegional-green?style=flat&logo=github" alt="Popular Repo: Tiny Stories Regional" /></a>
+  <img src="https://img.shields.io/badge/Total%20Stars-30-red?style=flat&logo=github" alt="Total Stars" />
+   <a href="https://github.com/VizuaraAI/Tiny-Stories-Regional" target="_blank"><img src="https://img.shields.io/badge/Popular%20Repo-TinyStoriesRegional-blue?style=flat&logo=github" alt="Popular Repo: Tiny Stories Regional" /></a>
 </p>
 
 <br>
