@@ -1,3 +1,1 @@
-## Deep Learning | Computer Vision | Medical Imaging
-
-[![nirvan840's GitHub | Topics Over Time](https://stats.quira.sh/nirvan840/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=nirvan840)
+🔭 I’m currently working on<br>Tinkering at the crossroads of Indic NLP and Medical Imaging — mostly lungs and kidneys are bearing the brunt of my curiosity.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Computer Vision projects that are weird, wonderful, or just plain wild. Bonus points if they involve asking “what if...?”<br><br>🌱 I’m currently learning<br>Trying to teach machines not to panic when they see something they weren’t trained on. (Out-of-Distribution Classification, if you’re fancy.)<br><br>💬 Ask me about<br>...whatever's on your mind! From undergrad research rabbit holes to my obsession with Formula 1 and dying gloriously in Elden Ring.
