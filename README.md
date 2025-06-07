@@ -3,7 +3,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Stars-30-red?style=flat&logo=github" alt="Total Stars" />
-   <a href="https://github.com/VizuaraAI/Tiny-Stories-Regional" target="_blank"><img src="https://img.shields.io/badge/Popular%20Repo-TinyStoriesRegional-blue?style=flat&logo=github" alt="Popular Repo: Tiny Stories Regional" /></a>
+  <a href="https://github.com/VizuaraAI/Tiny-Stories-Regional" target="_blank"><img src="https://img.shields.io/badge/Popular%20Repo-TinyStoriesRegional-blue?style=flat&logo=github" alt="Popular Repo: Tiny Stories Regional" /></a>
+  <a href="https://drive.google.com/file/d/1ixV5lXlrDh1nvwNrv95rSp2vo0e0eA1q/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-View-green?style=flat&logo=googledocs&logoColor=white" alt="Resume Link" /></a>
 </p>
 
 <br>
@@ -22,9 +23,9 @@
 
 <h3 align="center"><i>More about Me :)</i></h3>
 <p align="center">
-<a href="https://drive.google.com/file/d/1ixV5lXlrDh1nvwNrv95rSp2vo0e0eA1q/view?usp=sharing" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/82a9afae-ea46-46ef-a77c-94113dbd5129" alt="Resume" height="40" width="40" /></a>  &nbsp;
-<a href="https://linkedin.com/in/nirvan-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirvan-patil" height="30" width="30" /></a>  &nbsp;
-<a href="mailto:nirvan.ajit.patil@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="25" width="35" /></a>  &nbsp;
-<a href="https://codeforces.com/profile/jinom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jinom" height="45" width="45" /></a>  &nbsp;
-<a href="https://www.bits-pilani.ac.in/goa/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/1200px-BITS_Pilani-Logo.svg.png" alt="jinom" height="40" width="40" /></a>  &nbsp;
+  <a href="https://drive.google.com/file/d/1ixV5lXlrDh1nvwNrv95rSp2vo0e0eA1q/view?usp=sharing" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/82a9afae-ea46-46ef-a77c-94113dbd5129" alt="Resume" height="40" width="40" /></a>  &nbsp;
+  <a href="https://linkedin.com/in/nirvan-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirvan-patil" height="30" width="30" /></a>  &nbsp;
+  <a href="mailto:nirvan.ajit.patil@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="25" width="35" /></a>  &nbsp;
+  <a href="https://codeforces.com/profile/jinom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jinom" height="45" width="45" /></a>  &nbsp;
+  <a href="https://www.bits-pilani.ac.in/goa/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/1200px-BITS_Pilani-Logo.svg.png" alt="jinom" height="40" width="40" /></a>  &nbsp;
 </p>
