@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Tinkering at the crossroads of Indic NLP and Medical Imaging — mostly lungs and kidneys are bearing the brunt of my curiosity.<br><br>🌱 I’m currently learning Trying to teach machines not to panic when they see something they weren’t trained on. (Out-of-Distribution Classification, if you’re fancy.)<br><br>👯 I’m looking to collaborate on Exciting NLP or Computer Vision Research<br><br>💬 Ask me about ...whatever's on your mind! From undergrad research rabbit holes to my obsession with Formula 1 and dying gloriously in Elden Ring.</p>
+<p align="left">🔭 I’m currently working on tinkering with the likes of Indic NLP and Medical Imaging — with my recent paper, Regional-TinyStories accepted at IJCNLP-AACL (ACL Findings) 2025.<br><br>🌱 Most recently, I tried to teach machines not to panic when they see something they weren’t trained on. (Out-of-Distribution Classification, if you’re fancy.)<br><br>👯 I’m looking to collaborate on Exciting NLP or Computer Vision Research<br><br>💬 Ask me about ...whatever's on your mind! From undergrad research rabbit holes to my obsession with Formula 1 and dying gloriously in Elden Ring. Feel free to drop a mail or connect with me on LinkedIn :)</p>
 
 ###
 
