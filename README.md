@@ -5,7 +5,7 @@
 <h3 align="center"><i>Making sense of senses: Vision and NLP in the ML wild :)</i></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Stars-30+-red?style=flat&logo=github" alt="Total Stars" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=nirvan840.nirvan840&"  />
+  <img src="https://img.shields.io/badge/Total%20Stars-40+-red?style=flat&logo=github" alt="Total Stars" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=nirvan840.nirvan840&"  />
   <a href="https://github.com/VizuaraAI/Tiny-Stories-Regional" target="_blank"><img src="https://img.shields.io/badge/Popular%20Repo-TinyStoriesRegional-blue?style=flat&logo=github" alt="Popular Repo: Tiny Stories Regional" /></a>
   <a href="https://drive.google.com/file/d/1ixV5lXlrDh1nvwNrv95rSp2vo0e0eA1q/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-View-green?style=flat&logo=googledocs&logoColor=white" alt="Resume Link" /></a>
 </p>
